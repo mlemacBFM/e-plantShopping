@@ -30,4 +30,4 @@ npm run dev
 
 ## Repository
 
-GitHub: [e-plantShopping](https://github.com/mlemac/e-plantShopping)
+GitHub: [e-plantShopping](https://github.com/mlemacBFM/e-plantShopping)
